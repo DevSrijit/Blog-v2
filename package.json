@@ -14,9 +14,6 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   },
-  "engines": {
-    "node": "16.13.2"
-  },
   "repository": {
     "url": "https://glitch.com/edit/#!/glitch-hello-eleventy"
   },
