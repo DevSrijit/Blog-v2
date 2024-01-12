@@ -31,4 +31,4 @@ To run this blog locally, follow these steps:
 
 ---
 
-### Thank you for visiting my blog! I hope you find it informative, entertaining, and inspiring. Happy reading!
+### Thank you for visiting this repo!
