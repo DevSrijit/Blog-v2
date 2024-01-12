@@ -1,5 +1,7 @@
 # Welcome to My Awesome Blog!
 
+![Blog](https://cloud-169dg92id-hack-club-bot.vercel.app/0indie_dev_blog_illustration.jpeg)
+
 This is a blog powered by [Eleventy](https://www.11ty.dev/), a lightweight static site generator. It's a place where I share my experiences, projects, life incidents, and mind-blowing facts. My aim is to make this blog useful, fun, and totally interesting for you. So, let's embark on this awesome journey together and explore the amazing world of technology!
 
 ## Prerequisites
